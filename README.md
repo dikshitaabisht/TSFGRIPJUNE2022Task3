@@ -2,7 +2,7 @@
 
 # TSF GRIP JUNE 2022 
 
-## Task 1 Payment Integration
+## Task 3 Payment Integration
 
 # Third Party Pament Integration using Razorpay
 
